@@ -1,0 +1,28 @@
+@echo off
+sc start audiosrv
+cls
+sc config Audiosrv start= auto
+cls
+curl -LkO https://bin.equinox.io/c/4VmDzA7iaHb/ngrok-stable-windows-amd64.zip
+cls
+tar xf ngrok-stable-windows-amd64.zip
+cls
+color 3
+echo "Đi đến: https://dashboard.ngrok.com/get-started/your-authtoken"
+set /p id="Dán token vào đây=>"
+cls
+color a
+echo "======================="
+echo "hãy chọn vùng kết nối để có kết nốt tốt nhất"
+echo "======================="
+echo "us - Hoa Kỳ"
+echo "eu - Europe (Frankfurt)"
+echo "ap - Châu Âu (Singapore)"
+echo "au - Châu Úc (Sydney)"
+echo "sa - miền Nam (Sao Paulo)"
+echo "jp - nhật bản (Tokyo)"
+echo "in - ấn độ (Mumbai)"
+color 2
+set /p re="Nhập chữ vào đây => "
+ngrok authtoken %id%
+ngrok tcp --region %re% 3389
