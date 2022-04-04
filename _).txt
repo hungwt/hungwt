@@ -1,0 +1,17 @@
+#!/bin/bash
+for (( ; ; ))
+do
+clear
+echo "Đang tự hủy 0oo"
+sleep 0.1
+clear
+echo "Đang tự hủy o0o"
+sleep 0.1
+clear
+echo "Đang tự hủy oo0"
+sleep 0.1
+clear
+echo "Đang tự hủy ooo"
+sleep 0.1
+bash main.sh
+done
