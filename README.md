@@ -14,9 +14,9 @@
 
 - 💬 Ask me about **Android , MEARN**
 
-- 📫 How to reach me **rishavchanda0@gmail.com**
+- 📫 How to reach me **hungwt334@gmail.com**
 
-- ⚡ Fun fact **I am Funny**
+- ⚡ Fun fact **Am Sad :(**
 
 
 <h3 align="left">Languages and Tools:</h3>
