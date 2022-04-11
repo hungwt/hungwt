@@ -13,7 +13,7 @@
 
 
 - 🌱 I’m currently learning more about DiscordJS.
-- 👯 I’m looking to collaborate on **hungwt334@gmial.com**.
+- 👯 I’m looking to collaborate on **hungwt334@gmail.com**.
 - 🤔 I’m looking for help with Bashfuscator documentation.
 - 💬 Ask me about Linux or any tech-related stuff.
 - 😄 Pronouns: He/His
