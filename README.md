@@ -19,6 +19,14 @@
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I spend almost 12 hours listening to songs every day.
 
+---
+
+
+![Snake animation](https://github.com/xFGhoul/xFGhoul/blob/output/github-contribution-grid-snake.svg)
+
+
+---
+
 ### ⚙️ &nbsp;VMOS Ryzen's GitHub Analytics
 [![trophy](https://github-profile-trophy.vercel.app/?username=hungwt&theme=onedark)](https://github.com/hungwt#)
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=hungwt&show_icons=true&theme=nightowl&include_all_commits=false&count_private=true"/>
