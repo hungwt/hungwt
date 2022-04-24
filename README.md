@@ -1,5 +1,5 @@
 ## Hi, I'm [VMOSPRO!](https://github.com/hungwt) 👋
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?center=th%E1%BA%ADt&vCenter=gi%E1%BA%A3&lines=Hello+%E3%83%BE(%E2%80%A2%CF%89%E2%80%A2%60)o;this+is+my+github+account;Thanks+for+view+!;Bye+(%EF%BD%9E%EF%B9%83%EF%BD%9E)~zZ)](https://git.io/typing-svg)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iampawan&label=Views&color=blue&style=plastic" alt="iampawan" /> </p>
 
 <a href="https://github.com/hungwt">
