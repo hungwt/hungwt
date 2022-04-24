@@ -18,7 +18,9 @@
 - 💬 Ask me about Linux or any tech-related stuff.
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I spend almost 12 hours listening to songs every day.
-[![trophy](https://github-profile-trophy.vercel.app/?username=hungwt2&theme=onedark)](https://github.com/hungwt#)
+
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=hungwt&theme=onedark)](https://github.com/hungwt#)
 
 
 
