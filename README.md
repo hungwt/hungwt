@@ -1,9 +1,9 @@
 <h3 align="center">
-  Hi, I'm [VMOSPRO!](https://github.com/hungwt) 
+  Hi, I'm [VMOSPRO!]
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
-<a
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?center=th%E1%BA%ADt&vCenter=gi%E1%BA%A3&lines=Hello+%E3%83%BE(%E2%80%A2%CF%89%E2%80%A2%60)o;this+is+my+github+account;Thanks+for+view+!;Bye+(%EF%BD%9E%EF%B9%83%EF%BD%9E)~zZ)](https://git.io/typing-svg)
 
 
