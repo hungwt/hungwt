@@ -22,7 +22,7 @@
 
 
 ### ⚙️ &nbsp;VMOS Ryzen's GitHub Analytics
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=hungwt&theme=blue-green&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=hungwt&theme=tokyonight&hide_border=&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 ---
 [![trophy](https://github-profile-trophy.vercel.app/?username=hungwt&theme=onedark)](https://github.com/hungwt#)
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=hungwt&show_icons=true&theme=nightowl&include_all_commits=false&count_private=true"/>
