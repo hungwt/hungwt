@@ -47,3 +47,4 @@
 ![Metrics](https://metrics.lecoq.io/hungwt?template=classic&languages=1&habits=1&introduction=1&languages.limit=8&languages.threshold=0%25&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&habits.from=200&habits.days=14&habits.facts=true&habits.charts=false&habits.charts.type=classic&habits.trim=false&introduction.title=true&config.timezone=Asia%2FSaigon)
 
 
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dino_rounded.gif?raw=true" href="https://github.com/hungwt" width="700"/><br>
