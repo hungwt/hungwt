@@ -15,7 +15,7 @@
 
 <br/>
 <br/>
-
+[![Discord Presence](https://lanyard.cnrad.dev/api/970467331585241190)](https://discord.com/users/970467331585241190)
 ![status](https://dev.discordprofiles.me/badge/status/968855024249765990)
 ![playing](https://dev.discordprofiles.me/badge/playing/968855024249765990)
 - 🌱 I’m currently learning more about DiscordJS.
