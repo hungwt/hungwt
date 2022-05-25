@@ -16,6 +16,7 @@
 <br/>
 <br/>
 ![status](https://dev.discordprofiles.me/badge/status/968855024249765990)
+<br>
 ![playing](https://dev.discordprofiles.me/badge/playing/968855024249765990)
 - 🌱 I’m currently learning more about DiscordJS.
 - 👯 I’m looking to collaborate on **hungwt334@gmail.com**.
