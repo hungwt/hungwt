@@ -15,7 +15,6 @@
 
 <br/>
 <br/>
-[![Discord Presence](https://lanyard.cnrad.dev/api/970467331585241190)](https://discord.com/users/970467331585241190)
 ![status](https://dev.discordprofiles.me/badge/status/968855024249765990)
 ![playing](https://dev.discordprofiles.me/badge/playing/968855024249765990)
 - 🌱 I’m currently learning more about DiscordJS.
@@ -25,7 +24,14 @@
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I spend almost 12 hours listening to songs every day.
 
-
+	<img src="https://lanyard-profile-readme.vercel.app/api/970467331585241190?hideTimestamp=true&idleMessage=Freelance%20and%20Self-Taught%20Developer.&hideBadges=true"/>
+<!-- 	<br>
+	<img src="https://github-readme-streak-stats.herokuapp.com/?user=VMOS Ryzen&theme=dark&hide_border=true">
+	<br>
+	<img src="https://github-readme-stats.vercel.app/api?username=KanekiWeb&include_all_commits=true&show_icons=true&hide_border=true&hide_title=true&count_private=true&theme=dark">
+	<br>
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VMOS Ryzen&layout=compact&count_private=true&langs_count=8&hide_border=true&theme=dark"> -->
+</p>
 
 ### ⚙️ &nbsp;VMOS Ryzen's GitHub Analytics
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=hungwt&theme=tokyonight&hide_border=&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
