@@ -47,7 +47,7 @@
  .                   OMo           ':ddo.          Shell: bash 5.1.4         
                     dMc               :OO;         Resolution: 1920x1080     
                     0M.                 .:o.       DE: Kali 4.16             
-                    ;Wd                            WM: Xfwm4                 
+                    ;Wd                            WM: Kaliwm4                 
                      ;XO,                          WM Theme: Kali-Dark       
                        ,d0Odlc;,..                 Theme: Kali-Dark [GTK2/3] 
                            ..',;:cdOOd::,.         Icons: Flat-Remix-Blue-Dark 
