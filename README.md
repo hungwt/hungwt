@@ -42,7 +42,7 @@
           ......''';lxO.                           OS: Kali GNU/Linux Rollin 
 .....''''..........,:ld;                           Host: Google Compute Engi 
            .';;;:::;,,.x,                          Kernel: 5.10.109+         
-      ..'''.            0Xxoc:,.  ...              Uptime: 17Day 46 mins           
+      ..'''.            0Xxoc:,.  ...              Uptime: 17 Day 46 mins           
   ....                ,ONkc;,;cokOdc',.            Packages: 1126 (dpkg)     
  .                   OMo           ':ddo.          Shell: bash 5.1.4         
                     dMc               :OO;         Resolution: 1920x1080     
