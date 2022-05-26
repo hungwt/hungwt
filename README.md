@@ -36,9 +36,7 @@
 ---
 [![trophy](https://github-profile-trophy.vercel.app/?username=hungwt&theme=onedark)](https://github.com/hungwt#)
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=hungwt&show_icons=true&theme=nightowl&include_all_commits=false&count_private=true"/>
--   ```console  
-┌──(ubuntu㉿13918b72c26f)-[~]
-└─$ neofetch
+```console 
 ..............                                     ubuntu@13918b72c26f 
             ..,;:ccc,.                             -------------------       
           ......''';lxO.                           OS: Kali GNU/Linux Rollin 
@@ -64,7 +62,7 @@
 
 ┌──(ubuntu㉿13918b72c26f)-[~]
 └─$ 
-    ```
+```
 ![Snake animation](https://github.com/xFGhoul/xFGhoul/blob/output/github-contribution-grid-snake.svg)
 
 ---
