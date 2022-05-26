@@ -36,7 +36,7 @@
 ---
 [![trophy](https://github-profile-trophy.vercel.app/?username=hungwt&theme=onedark)](https://github.com/hungwt#)
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=hungwt&show_icons=true&theme=nightowl&include_all_commits=false&count_private=true"/>
-### ⚙️ &nbsp;VMOS Ryzen's GitHub Analytics
+### ⚙️ &nbsp;My PC
 ```console 
 ..............                                     VMOS@Ryzen 
             ..,;:ccc,.                             -------------------       
