@@ -36,11 +36,12 @@
 ---
 [![trophy](https://github-profile-trophy.vercel.app/?username=hungwt&theme=onedark)](https://github.com/hungwt#)
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=hungwt&show_icons=true&theme=nightowl&include_all_commits=false&count_private=true"/>
+### ⚙️ &nbsp;VMOS Ryzen's GitHub Analytics
 ```console 
 ..............                                     VMOS@Ryzen 
             ..,;:ccc,.                             -------------------       
           ......''';lxO.                           OS: Kali GNU/Linux Rollin 
-.....''''..........,:ld;                           Host: Google Compute Engi 
+.....''''..........,:ld;                           Host: Azure Compute Engine
            .';;;:::;,,.x,                          Kernel: 5.10.109+         
       ..'''.            0Xxoc:,.  ...              Uptime: 17 Day 46 mins           
   ....                ,ONkc;,;cokOdc',.            Packages: 1126 (dpkg)     
