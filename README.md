@@ -40,33 +40,6 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=hungwt&theme=onedark)](https://github.com/hungwt#)
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=hungwt&show_icons=true&theme=nightowl&include_all_commits=false&count_private=true"/>
 ### ⚙️ &nbsp;My PC
-```console 
-..............                                     VMOS@Ryzen 
-            ..,;:ccc,.                             -------------------       
-          ......''';lxO.                           OS: Kali GNU/Linux Rollin 
-.....''''..........,:ld;                           Host: Azure Compute Engine
-           .';;;:::;,,.x,                          Kernel: 5.10.109+         
-      ..'''.            0Xxoc:,.  ...              Uptime: 17 Day 46 mins           
-  ....                ,ONkc;,;cokOdc',.            Packages: 1126 (dpkg)     
- .                   OMo           ':ddo.          Shell: bash 5.1.4         
-                    dMc               :OO;         Resolution: 1920x1080     
-                    0M.                 .:o.       DE: Kali 4.16             
-                    ;Wd                            WM: Kaliwm4                 
-                     ;XO,                          WM Theme: Kali-Dark       
-                       ,d0Odlc;,..                 Theme: Kali-Dark [GTK2/3] 
-                           ..',;:cdOOd::,.         Icons: Flat-Remix-Blue-Dark 
-                                    .:d;.':;.      Terminal: qterminal       
-                                       'd,  .'     CPU: Intel Core i9-10900 (2.86GHz) 
-                                         ;l   ..   Memory: 1385MiB / 98687MiB 
-                                          .o                                 
-                                            c                                
-                                            .'                               
-                                             .                               
-
-
-┌──(VMOS㉿Ryzen)-[~]
-└─$ 
-```
 ![Snake animation](https://github.com/xFGhoul/xFGhoul/blob/output/github-contribution-grid-snake.svg)
 
 ---
